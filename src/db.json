@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "12Deeadf",
+      "password": "admin",
+      "email": "ad@gmail.com",
+      "role": "admin",
+      "gen": "male",
+      "isActive": true
+    },
+    {
+      "id": "USER12",
+      "name": "test12",
+      "password": "G76!vUa3!6w637D",
+      "email": "test@gmail.com",
+      "role": "user",
+      "gen": "",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "demo-user",
+      "name": "sfgsdf",
+      "password": "sdfsdfsddsfQ234@",
+      "email": "text@gmail.com",
+      "role": "user",
+      "gen": "female",
+      "isActive": false
+    },
+    {
+      "id": "admin",
+      "name": "text@gmail.com",
+      "password": "sgsdf@324A",
+      "email": "deepii@gmail.com",
+      "role": "user",
+      "gen": "male",
+      "isActive": false
+    },
+    {
+      "id": "sdfg234",
+      "name": "text@gmail.com",
+      "password": "fdgsdW123@",
+      "email": "text@gmail.com",
+      "role": "admin",
+      "gen": "male",
+      "isActive": false
+    },
+    {
+      "id": "text12",
+      "name": "deepika",
+      "password": "deepika@SD234",
+      "email": "deepii@gmail.com",
+      "role": "user",
+      "gen": "male",
+      "isActive": false
+    }
+  ]
+}
